@@ -1,0 +1,15 @@
+/* अतिरिक्त स्टाइलिंग */
+.services, .portfolio, .reviews, .education {
+    margin: 20px 0;
+}
+
+.services div, .portfolio div, .reviews div {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+.portfolio img {
+    max-width: 100%;
+    height: auto;
+}
